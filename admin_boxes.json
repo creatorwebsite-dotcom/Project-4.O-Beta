@@ -1,0 +1,77 @@
+{
+  "updated_at": "2026-10-24 14:39:51 IST",
+  "window_days": 15,
+  "category_counts": {
+    "latest_jobs": 30,
+    "results": 10,
+    "admit_cards": 8,
+    "answer_keys": 8,
+    "syllabus": 8,
+    "admissions": 8
+  },
+  "trending_top_6": [
+    {
+      "id": "12061836307c",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "24abaf3c6180",
+      "title": "SSC GD Constable Revised Result 2026",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
+      "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "7332bd480fd8",
+      "title": "RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies",
+      "sub": "Admit Card",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "b034e86b56ae",
+      "title": "Odisha Police 7,268 Constable Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
+      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
+      "rushScore": 116,
+      "active": true
+    },
+    {
+      "id": "04323c30cb81",
+      "title": "RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside",
+      "sub": "Admit Card",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 100,
+      "active": true
+    },
+    {
+      "id": "2a1492faf170",
+      "title": "SSC GD Revised Result 2026 Out, Download Updated Merit List PDF",
+      "sub": "Result",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for SSC GD Revised Result 2026 Out, Download Updated Merit List PDF. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 100,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "new_custom_boxes": []
+}
