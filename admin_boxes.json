@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-24 22:14:21 IST",
+  "updated_at": "2026-10-25 00:01:04 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 48,
-    "results": 26,
-    "admit_cards": 24,
-    "answer_keys": 24,
-    "syllabus": 24,
-    "admissions": 24
+    "latest_jobs": 56,
+    "results": 34,
+    "admit_cards": 32,
+    "answer_keys": 29,
+    "syllabus": 32,
+    "admissions": 33
   },
   "trending_top_6": [
     {
@@ -38,6 +38,15 @@
       "active": true
     },
     {
+      "id": "6615892498b1",
+      "title": "Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "2182f6670957",
       "title": "Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply",
       "sub": "Latest Jobs",
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://ssc.gov.in",
       "details": "Official notification for OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "7332bd480fd8",
-      "title": "RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies",
-      "sub": "Admit Card",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 118,
       "active": true
     }
