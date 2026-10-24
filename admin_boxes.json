@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-24 21:31:35 IST",
+  "updated_at": "2026-10-24 22:14:21 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 40,
-    "results": 18,
-    "admit_cards": 16,
-    "answer_keys": 16,
-    "syllabus": 16,
-    "admissions": 16
+    "latest_jobs": 48,
+    "results": 26,
+    "admit_cards": 24,
+    "answer_keys": 24,
+    "syllabus": 24,
+    "admissions": 24
   },
   "trending_top_6": [
     {
@@ -29,6 +29,24 @@
       "active": true
     },
     {
+      "id": "3a675eca7d6b",
+      "title": "Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "2182f6670957",
+      "title": "Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Odisha Police Recruitment 2026: 7,268 Vacancies Announced for Constables, Firefighters and Drivers, Check Eligibility and How to Apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "ed7f84796d54",
       "title": "OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply",
       "sub": "Latest Jobs",
@@ -44,24 +62,6 @@
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "b034e86b56ae",
-      "title": "Odisha Police 7,268 Constable Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
-      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
-      "rushScore": 116,
-      "active": true
-    },
-    {
-      "id": "e0c8fcba9e0e",
-      "title": "Odisha Police Constable Apply Online 2026 Starts at ousssc.odisha.gov.in, Check Apply Link and Fee",
-      "sub": "Latest Jobs",
-      "url": "https://ssc.gov.in",
-      "details": "Official notification for Odisha Police Constable Apply Online 2026 Starts at ousssc.odisha.gov.in, Check Apply Link and Fee. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 100,
       "active": true
     }
   ],
