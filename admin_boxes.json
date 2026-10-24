@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-24 14:39:51 IST",
+  "updated_at": "2026-10-24 21:31:35 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 30,
-    "results": 10,
-    "admit_cards": 8,
-    "answer_keys": 8,
-    "syllabus": 8,
-    "admissions": 8
+    "latest_jobs": 40,
+    "results": 18,
+    "admit_cards": 16,
+    "answer_keys": 16,
+    "syllabus": 16,
+    "admissions": 16
   },
   "trending_top_6": [
     {
@@ -29,6 +29,15 @@
       "active": true
     },
     {
+      "id": "ed7f84796d54",
+      "title": "OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply",
+      "sub": "Latest Jobs",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for OUSSSC recruitment 2026: 7,268 vacancies announced for 12th-pass candidates, check eligibility and how to apply. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "7332bd480fd8",
       "title": "RRB JE CBT 1 admit card 2026 out: Download hall ticket link for 4,029 vacancies",
       "sub": "Admit Card",
@@ -47,20 +56,11 @@
       "active": true
     },
     {
-      "id": "04323c30cb81",
-      "title": "RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside",
-      "sub": "Admit Card",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 100,
-      "active": true
-    },
-    {
-      "id": "2a1492faf170",
-      "title": "SSC GD Revised Result 2026 Out, Download Updated Merit List PDF",
-      "sub": "Result",
+      "id": "e0c8fcba9e0e",
+      "title": "Odisha Police Constable Apply Online 2026 Starts at ousssc.odisha.gov.in, Check Apply Link and Fee",
+      "sub": "Latest Jobs",
       "url": "https://ssc.gov.in",
-      "details": "Official notification for SSC GD Revised Result 2026 Out, Download Updated Merit List PDF. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "details": "Official notification for Odisha Police Constable Apply Online 2026 Starts at ousssc.odisha.gov.in, Check Apply Link and Fee. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 100,
       "active": true
     }
