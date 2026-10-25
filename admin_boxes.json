@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-25 15:46:09 IST",
+  "updated_at": "2026-10-25 18:54:36 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 94,
-    "results": 67,
-    "admit_cards": 51,
+    "latest_jobs": 102,
+    "results": 68,
+    "admit_cards": 59,
     "answer_keys": 49,
-    "syllabus": 64,
-    "admissions": 65
+    "syllabus": 71,
+    "admissions": 73
   },
   "trending_top_6": [
+    {
+      "id": "921d07dacaa8",
+      "title": "Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited",
+      "sub": "Latest Jobs",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "12061836307c",
       "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
@@ -47,20 +56,11 @@
       "active": true
     },
     {
-      "id": "3a675eca7d6b",
-      "title": "Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Assam Police to Begin Interviews for 5,734 Posts from February 1, 2027. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "6615892498b1",
-      "title": "Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Assam Police, 6 depts to begin recruitment tests Feb 1; 10L apply for 5,736 posts. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "id": "6064ebbb9452",
+      "title": "UPESSC Principal Recruitment 2026 Out For 2647 Posts, Apply Link , Eligibility",
+      "sub": "Syllabus",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for UPESSC Principal Recruitment 2026 Out For 2647 Posts, Apply Link , Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 118,
       "active": true
     }
