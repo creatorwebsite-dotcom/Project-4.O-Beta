@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-26 11:47:06 IST",
+  "updated_at": "2026-10-26 13:23:10 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 132,
-    "results": 76,
-    "admit_cards": 72,
+    "latest_jobs": 135,
+    "results": 81,
+    "admit_cards": 76,
     "answer_keys": 54,
-    "syllabus": 72,
-    "admissions": 105
+    "syllabus": 74,
+    "admissions": 111
   },
   "trending_top_6": [
+    {
+      "id": "3551b2e2d553",
+      "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
+      "sub": "Result",
+      "url": "https://bpsc.bih.nic.in",
+      "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "921d07dacaa8",
       "title": "Railway Group D Recruitment 2026: 30,000 Vacancies Expected, Notification Awaited",
@@ -53,15 +62,6 @@
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "24abaf3c6180",
-      "title": "SSC GD Constable Revised Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
-      "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
-      "rushScore": 119,
       "active": true
     }
   ],
