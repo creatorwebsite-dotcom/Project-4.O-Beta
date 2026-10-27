@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-27 11:54:13 IST",
+  "updated_at": "2026-10-27 13:22:25 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 180,
+    "latest_jobs": 186,
     "results": 98,
     "admit_cards": 90,
-    "answer_keys": 70,
-    "syllabus": 72,
-    "admissions": 145
+    "answer_keys": 72,
+    "syllabus": 73,
+    "admissions": 153
   },
   "trending_top_6": [
+    {
+      "id": "09f717dd0144",
+      "title": "UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here",
+      "sub": "Latest Jobs",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "3551b2e2d553",
       "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
@@ -53,15 +62,6 @@
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Madhya Pradesh Police Jobs: 18,500 Posts Announced as Indore Launches Police Setu App. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 119,
       "active": true
     }
   ],
