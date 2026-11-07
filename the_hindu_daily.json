@@ -1,8 +1,14 @@
 {
-  "updatedAt": "07 Nov 2026, 11:40 PM IST",
-  "currentDateIso": "2026-11-07",
-  "currentDateDisplay": "07 Nov 2026",
+  "updatedAt": "08 Nov 2026, 01:16 AM IST",
+  "currentDateIso": "2026-11-08",
+  "currentDateDisplay": "08 Nov 2026",
   "availableDates": [
+    {
+      "dateIso": "2026-11-08",
+      "dateDisplay": "08 Nov 2026",
+      "updatedAt": "08 Nov 2026, 01:06 AM IST",
+      "articleCount": 0
+    },
     {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
@@ -14,19 +20,19 @@
       "dateDisplay": "06 Nov 2026",
       "updatedAt": "06 Nov 2026, 01:22 AM IST",
       "articleCount": 0
-    },
-    {
-      "dateIso": "2026-11-05",
-      "dateDisplay": "05 Nov 2026",
-      "updatedAt": "05 Nov 2026, 01:11 AM IST",
-      "articleCount": 0
     }
   ],
-  "hookLine1": "Daily Editorial & Broadsheet Exam Digest (07 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Print Edition & 3-Day Archive • Updated: 07 Nov 2026, 11:40 PM IST",
+  "hookLine1": "Daily Editorial & Broadsheet Exam Digest (08 Nov 2026)",
+  "hookLine2": "100% In-App Full Newspaper Print Edition & 3-Day Archive • Updated: 08 Nov 2026, 01:16 AM IST",
   "totalArticles": 0,
   "articles": [],
   "archiveByDate": {
+    "2026-11-08": {
+      "dateIso": "2026-11-08",
+      "dateDisplay": "08 Nov 2026",
+      "updatedAt": "08 Nov 2026, 01:06 AM IST",
+      "articles": []
+    },
     "2026-11-07": {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
@@ -37,12 +43,6 @@
       "dateIso": "2026-11-06",
       "dateDisplay": "06 Nov 2026",
       "updatedAt": "06 Nov 2026, 01:22 AM IST",
-      "articles": []
-    },
-    "2026-11-05": {
-      "dateIso": "2026-11-05",
-      "dateDisplay": "05 Nov 2026",
-      "updatedAt": "05 Nov 2026, 01:11 AM IST",
       "articles": []
     }
   },
