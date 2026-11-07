@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-07 20:37:05 IST",
+  "updated_at": "2026-11-07 23:24:09 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 665,
+    "latest_jobs": 664,
     "results": 147,
-    "admit_cards": 146,
-    "answer_keys": 114,
-    "syllabus": 109,
-    "admissions": 423
+    "admit_cards": 145,
+    "answer_keys": 112,
+    "syllabus": 106,
+    "admissions": 416
   },
   "trending_top_6": [
+    {
+      "id": "c956d06b1b76",
+      "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "c0971824a59b",
       "title": "MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in",
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "a49050fa00a7",
-      "title": "BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process",
-      "sub": "Result",
-      "url": "https://bpsc.bih.nic.in",
-      "details": "Official notification for BPSC TRE 4.0 Notification 2026 Out, 33,320 Vacancies, Check Eligibility, Selection Process. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
       "active": true
     }
