@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10 15:19:11 IST",
+  "updated_at": "2026-11-10 18:11:41 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 656,
-    "results": 139,
-    "admit_cards": 145,
-    "answer_keys": 105,
-    "syllabus": 93,
-    "admissions": 408
+    "latest_jobs": 658,
+    "results": 133,
+    "admit_cards": 142,
+    "answer_keys": 104,
+    "syllabus": 89,
+    "admissions": 404
   },
   "trending_top_6": [
     {
@@ -47,21 +47,21 @@
       "active": true
     },
     {
-      "id": "3551b2e2d553",
-      "title": "BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility",
-      "sub": "Result",
-      "url": "https://bpsc.bih.nic.in",
-      "details": "Official notification for BPSC TRE 4 Application 2026 Last Date Today: Apply Now for 32388 Posts; Check Eligibility. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
       "id": "3a6778c602b1",
       "title": "RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details",
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "c25ef3a4852b",
+      "title": "Railway RRC NR Apprentice Online Form 2026 (4651 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
+      "details": "Railway Recruitment Cell (RRC-NR) , has released a Notification on its official website for the recruitment of RRC NR Apprentice Posts. This recruitment is for 4651 positions. RRC Application Form will start on 11 November 2026 & the candidates can apply until 11 December 2026 . Candidates must check the complete details for RRC NR Apprentice Recruitment 2026. which has given below.",
+      "rushScore": 118,
       "active": true
     }
   ],
