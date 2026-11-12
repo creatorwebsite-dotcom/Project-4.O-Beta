@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12 15:23:11 IST",
+  "updated_at": "2026-11-12 18:14:54 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 652,
-    "results": 128,
-    "admit_cards": 142,
-    "answer_keys": 91,
-    "syllabus": 87,
-    "admissions": 395
+    "latest_jobs": 651,
+    "results": 123,
+    "admit_cards": 143,
+    "answer_keys": 93,
+    "syllabus": 81,
+    "admissions": 391
   },
   "trending_top_6": [
     {
@@ -15,6 +15,15 @@
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://mpsconline.gov.in/",
+      "details": "",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "45222509181b",
+      "title": "RRB ALP CBT 1 Answer Key 2026",
+      "sub": "Closing Soon",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
       "active": true
@@ -53,15 +62,6 @@
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "f0a4d60af1c7",
-      "title": "MPSC Group C Notification 2026 Out for 16797 Vacancies, Apply Online, Exam Date",
-      "sub": "Result",
-      "url": "https://mpsc.gov.in",
-      "details": "Official notification for MPSC Group C Notification 2026 Out for 16797 Vacancies, Apply Online, Exam Date. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 119,
       "active": true
     }
   ],
