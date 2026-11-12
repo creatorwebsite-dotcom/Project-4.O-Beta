@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 01:31:25 IST",
+  "updated_at": "2026-11-13 02:27:26 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 656,
-    "results": 144,
-    "admit_cards": 159,
+    "latest_jobs": 654,
+    "results": 145,
+    "admit_cards": 164,
     "answer_keys": 96,
     "syllabus": 83,
     "admissions": 397
@@ -24,15 +24,6 @@
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://mpsconline.gov.in/",
-      "details": "",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "45222509181b",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Closing Soon",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
       "active": true
@@ -59,6 +50,15 @@
       "id": "24abaf3c6180",
       "title": "SSC GD Constable Revised Result 2026",
       "sub": "Result",
+      "url": "https://ssc.gov.in/",
+      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "58e6d942b5a6",
+      "title": "SSC GD Constable PET / PST Admit Card 2026",
+      "sub": "Admit Card",
       "url": "https://ssc.gov.in/",
       "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
       "rushScore": 125,
