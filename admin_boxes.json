@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14 03:16:27 IST",
+  "updated_at": "2026-11-14 13:15:13 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 654,
-    "results": 139,
-    "admit_cards": 178,
-    "answer_keys": 93,
-    "syllabus": 85,
-    "admissions": 395
+    "latest_jobs": 646,
+    "results": 137,
+    "admit_cards": 185,
+    "answer_keys": 94,
+    "syllabus": 92,
+    "admissions": 399
   },
   "trending_top_6": [
     {
@@ -16,7 +16,16 @@
       "sub": "Date Extended",
       "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
       "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
-      "rushScore": 134,
+      "rushScore": 132,
+      "active": true
+    },
+    {
+      "id": "849df1ee41db",
+      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
+      "sub": "Date Extended",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -25,15 +34,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "410f8522b383",
-      "title": "MPSC 16,797 Group C Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://mpsconline.gov.in/",
-      "details": "",
       "rushScore": 125,
       "active": true
     },
