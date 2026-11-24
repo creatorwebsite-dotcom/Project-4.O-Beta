@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-24 08:14:19 IST",
+  "updated_at": "2026-11-24 16:32:28 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 615,
-    "results": 150,
-    "admit_cards": 289,
-    "answer_keys": 90,
-    "syllabus": 130,
-    "admissions": 435
+    "latest_jobs": 619,
+    "results": 152,
+    "admit_cards": 297,
+    "answer_keys": 91,
+    "syllabus": 133,
+    "admissions": 434
   },
   "trending_top_6": [
+    {
+      "id": "f62232a5a7fa",
+      "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "849df1ee41db",
       "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
@@ -34,15 +43,6 @@
       "sub": "Closing Soon",
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "b55b0b1c5529",
-      "title": "MPSC Group C 2026: 16,717 Posts, Prelims on January 24",
-      "sub": "Result",
-      "url": "https://mpsc.gov.in",
-      "details": "Official notification for MPSC Group C 2026: 16,717 Posts, Prelims on January 24. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     },
