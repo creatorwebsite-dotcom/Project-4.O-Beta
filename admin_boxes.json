@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25 01:14:16 IST",
+  "updated_at": "2026-11-25 04:00:16 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 629,
-    "results": 156,
+    "latest_jobs": 634,
+    "results": 154,
     "admit_cards": 302,
-    "answer_keys": 93,
-    "syllabus": 138,
+    "answer_keys": 92,
+    "syllabus": 140,
     "admissions": 433
   },
   "trending_top_6": [
@@ -16,6 +16,15 @@
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
       "details": "Official notification for Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "4bf2d371e358",
+      "title": "Gujarat Police announces direct recruitment for 12,993 posts: 12,752 vacancies in Lok Rakshak cadre and 241...",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Gujarat Police announces direct recruitment for 12,993 posts: 12,752 vacancies in Lok Rakshak cadre and 241.... Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
       "rushScore": 125,
       "active": true
     },
@@ -53,15 +62,6 @@
       "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
       "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
       "rushScore": 124,
-      "active": true
-    },
-    {
-      "id": "828df6b10d6a",
-      "title": "UP Police Constable Score Card 2026 Out",
-      "sub": "Result",
-      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
-      "details": "",
-      "rushScore": 123,
       "active": true
     }
   ],
