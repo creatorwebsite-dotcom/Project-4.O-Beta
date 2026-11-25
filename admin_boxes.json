@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-25 05:46:00 IST",
+  "updated_at": "2026-11-25 15:28:04 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 626,
-    "results": 154,
+    "latest_jobs": 632,
+    "results": 156,
     "admit_cards": 298,
     "answer_keys": 92,
-    "syllabus": 141,
-    "admissions": 434
+    "syllabus": 144,
+    "admissions": 435
   },
   "trending_top_6": [
+    {
+      "id": "f79bf1cb4cc6",
+      "title": "Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "f62232a5a7fa",
       "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
@@ -53,15 +62,6 @@
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "7d353a63aaca",
-      "title": "Over 26,000 vacancies in Odisha Police, recruitment process underway for 6,885 posts: CM",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Over 26,000 vacancies in Odisha Police, recruitment process underway for 6,885 posts: CM. Check important dates, eligibility criteria, vacancy breakdown, and direct official links below.",
-      "rushScore": 123,
       "active": true
     }
   ],
